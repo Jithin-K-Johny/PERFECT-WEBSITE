@@ -1,0 +1,14 @@
+/* Button */
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    padding: 15px 40px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #0284d0;
+    border: none;
+
+}
+.btn:hover {
+    opacity: 0.9;
+}
