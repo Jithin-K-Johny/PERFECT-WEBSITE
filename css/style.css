@@ -125,8 +125,8 @@ img {
 }
 
 #about .about-top img {
-    width: 50%;
-    height: 40%;
+    width: 20%;
+    height: 30%;
 }
 #about .about-middle {
     display: flex;
